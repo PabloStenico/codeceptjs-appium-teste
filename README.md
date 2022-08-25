@@ -1,0 +1,13 @@
+# Projeto de automação de testes com codeceptjs e appium -- Pratica
+
+## instalar dependencias 
+
+...
+npm install
+...
+
+## Rodas os testes 
+
+...
+npm run test
+...
